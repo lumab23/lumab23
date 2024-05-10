@@ -4,7 +4,7 @@
 
 ⌨️ I also have interest in **Back-end and Machine Learning**
 
-📫 How to reach me **lumabca@gmail.com**
+📖 Studying **Computer Science** at UNIFOR
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
