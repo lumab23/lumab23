@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luma</h1>
-- 🌱 I’m currently learning **Android Development with Kotlin**
 
-- ⌨️ I also have interest in **Back-end and Machine Learning**
+🌱 I’m currently learning **Android Development with Kotlin**
 
-- 📫 How to reach me **lumabca@gmail.com**
+⌨️ I also have interest in **Back-end and Machine Learning**
+
+📫 How to reach me **lumabca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
