@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luma</h1>
 
-🌱 I’m currently learning **Android Development with Kotlin**
-
-⌨️ I also have interest in **Back-end and Machine Learning**
-
-📖 Studying **Computer Science** at UNIFOR
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lumabca23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lumabca23" height="30" width="40" /></a>
