@@ -1,11 +1,32 @@
-<h1 align="center">Hi 👋, I'm Luma</h1>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF92&center=true&vCenter=true&width=435&lines=Hello%2C++my+name+is+Luma!;and+I+love+Mobile+Development!" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lbca23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lumabca23" height="30" width="40" /></a>
+<hr>
+
+<p>
+    I'm a Computer Science student in my third semester at UNIFOR, focusing on mobile development.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<ul>
+    <li>🌎 I'm based in Fortaleza, Brazil</li>
+    <li>📱I'm currently learning Jetpack Compose</li>
+    <li>👩🏻‍💻 I'm open to learning new technologies</li>
+    <li>🤖 Interested in exploring Machine Learning</li>
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumab23&show_icons=true&locale=en" alt="lumab23" /></p>
+<h2>Skills</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="50px"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50px"/>     
+
+<h2>Stats</h2>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumab23&&theme=gotham&show_icons=true&locale=en" alt="lumab23" /></p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumab23&theme=gotham&layout=compact)
+
