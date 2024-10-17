@@ -4,6 +4,7 @@
 
 <hr>
 
+
 <p>
     I'm a Computer Science student in my third semester at UNIFOR, focusing on mobile development.
 </p>
@@ -16,17 +17,17 @@
 </ul>
 
 <h2>Skills</h2>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="50px"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50px"/>     
+<div style="display: flex; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="50px"/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50px"/> 
+</div>
 
 <h2>Stats</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumab23&&theme=gotham&show_icons=true&locale=en" alt="lumab23" /></p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumab23&theme=gotham&layout=compact)
-
