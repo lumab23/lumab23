@@ -37,5 +37,5 @@
 <h2>Connect with me</h2>
 
 <a href="https://www.linkedin.com/in/lbca23/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50px"/>
 </a>         
