@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumab23&&theme=gotham&show_icons=true&locale=en" alt="lumab23" /></p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumab23&theme=gotham&layout=compact)
+
+<h2>Connect with me</h2>
+
+<a href="https://www.linkedin.com/in/lbca23/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>         
