@@ -8,7 +8,7 @@
 
 
 <p>
-    I'm a Computer Science student in my third semester at UNIFOR, focusing on mobile development.
+   I'm a Computer Science student in my fourth semester at UNIFOR, with interest on mobile development and back-end.
 </p>
 
 <ul>
