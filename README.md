@@ -13,19 +13,19 @@
 
 <ul>
     <li>🌎 I'm based in Fortaleza, Brazil</li>
-    <li>📱I'm currently learning Jetpack Compose</li>
+    <li>📱I'm currently learning React Native.</li>
     <li>👩🏻‍💻 I'm open to learning new technologies</li>
     <li>🤖 Interested in exploring Machine Learning</li>
 </ul>
 
 <h2>Skills</h2>
 <div style="display: flex; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="50px"/>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="50px"/>   
 </div>
 
 <h2>Stats</h2>
