@@ -13,9 +13,8 @@
 
 <ul>
     <li>🌎 I'm based in Fortaleza, Brazil</li>
-    <li>📱I'm currently learning React Native.</li>
+    <li>📱I'm currently learning React Native and Node.js</li>
     <li>👩🏻‍💻 I'm open to learning new technologies</li>
-    <li>🤖 Interested in exploring Machine Learning</li>
 </ul>
 
 <h2>Skills</h2>
