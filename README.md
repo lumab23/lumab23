@@ -13,7 +13,7 @@
 
 <ul>
     <li>🌎 I'm based in Fortaleza, Brazil</li>
-    <li>📱I'm currently learning React Native and Node.js</li>
+    <li>📱I'm currently studying back-end technologies like Node.js</li>
     <li>👩🏻‍💻 I'm open to learning new technologies</li>
 </ul>
 
