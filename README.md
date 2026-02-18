@@ -8,7 +8,7 @@
 
 
 <p>
-   I'm a Computer Science student in my fifth semester at UNIFOR, with interest on mobile development and back-end.
+   I'm a Computer Science student in my sixth semester at UNIFOR, with interest on AI and back-end.
 </p>
 
 <ul>
