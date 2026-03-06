@@ -26,13 +26,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
 </div>
 
-<h2>Stats</h2>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lumab23&show_icons=true&theme=gotham"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumab23&layout=compact&theme=gotham"/>
-</p>
-
 <h2>Connect with me</h2>
 
 <a href="https://www.linkedin.com/in/lbca23/" target="_blank"> 
