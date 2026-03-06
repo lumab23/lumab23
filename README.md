@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumab23&&theme=gotham&show_icons=true&locale=en" alt="lumab23" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumab23&theme=gotham&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumab23&layout=compact&theme=gotham&langs_count=6)
 
 <h2>Connect with me</h2>
 
